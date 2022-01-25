@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "773093604961",
+    "firebase_url": "https://gercekzamanliaractakip-3d63d-default-rtdb.firebaseio.com",
+    "project_id": "gercekzamanliaractakip-3d63d",
+    "storage_bucket": "gercekzamanliaractakip-3d63d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773093604961:android:b126bee4ea83506adf3420",
+        "android_client_info": {
+          "package_name": "com.example.gercekzamanliaractakip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773093604961-mr03lq7bq39oogafqtttcc2tcpmgna11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt6YF-np1am0GteK5tLFlq_Q2xj9Q3u3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773093604961-mr03lq7bq39oogafqtttcc2tcpmgna11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773093604961:android:810355ef46309a62df3420",
+        "android_client_info": {
+          "package_name": "com.example.gercekzamanliaractakipbinici"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773093604961-mr03lq7bq39oogafqtttcc2tcpmgna11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt6YF-np1am0GteK5tLFlq_Q2xj9Q3u3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773093604961-mr03lq7bq39oogafqtttcc2tcpmgna11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
